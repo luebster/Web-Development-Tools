@@ -6,13 +6,17 @@ A collection of libraries, tutorials, and other handy web development resources.
 
 ### User Interface
 
+**Frameworks**
+- [Bulma](https://bulma.io)
+- [Bulmaswatch](https://jenil.github.io/bulmaswatch): themes for Bulma
+
 **Tooltips**
-[Popper](https://popper.js.org)
+- [Popper](https://popper.js.org)
 
 **Avatars**
-[unavatar](https://unavatar.now.sh/)
+- [unavatar](https://unavatar.now.sh/)
 
 ## Reference
 
 ### HTML
-[Inputmode](https://css-tricks.com/everything-you-ever-wanted-to-know-about-inputmode/)
+- [Inputmode](https://css-tricks.com/everything-you-ever-wanted-to-know-about-inputmode/)
