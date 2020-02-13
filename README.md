@@ -4,6 +4,9 @@ A collection of libraries, tutorials, and other handy web development resources.
 
 ## Libraries
 
+### C#
+- [CSV Helper](https://joshclose.github.io/CsvHelper/): read and write CSV files
+
 ### User Interface
 
 **Frameworks**
