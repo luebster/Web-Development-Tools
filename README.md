@@ -19,6 +19,9 @@ A collection of libraries, tutorials, and other handy web development resources.
 **Avatars**
 - [unavatar](https://unavatar.now.sh/)
 
+**Pagination**
+- [Paged.js](https://www.pagedjs.org/)
+
 ## Reference
 
 ### HTML
