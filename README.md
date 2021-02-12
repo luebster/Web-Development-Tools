@@ -22,6 +22,9 @@ A collection of libraries, tutorials, and other handy web development resources.
 **Pagination**
 - [Paged.js](https://www.pagedjs.org/)
 
+**Date Picker**
+- [Pikaday](https://github.com/Pikaday/Pikaday)
+
 ## Reference
 
 ### HTML
