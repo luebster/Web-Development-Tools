@@ -25,6 +25,9 @@ A collection of libraries, tutorials, and other handy web development resources.
 **Date Picker**
 - [Pikaday](https://github.com/Pikaday/Pikaday)
 
+**Swiper**
+- [Swiper](https://swiperjs.com)
+
 ## Reference
 
 ### HTML
