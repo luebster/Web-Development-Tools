@@ -5,6 +5,10 @@ A collection of libraries, tutorials, and other handy web development resources.
 ## Libraries
 
 ### C#
+**Caching**
+ - [Lazy Cache](https://github.com/alastairtree/LazyCache/releases/tag/2.4.0.174)
+
+**CSV**
 - [CSV Helper](https://joshclose.github.io/CsvHelper/): read and write CSV files
 
 ### Front-end
