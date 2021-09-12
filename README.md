@@ -8,6 +8,9 @@ A collection of libraries, tutorials, and other handy web development resources.
 **Caching**
  - [Lazy Cache](https://github.com/alastairtree/LazyCache/releases/tag/2.4.0.174)
 
+**Code Helpers**
+- [Guard Classes](https://github.com/ardalis/GuardClauses): A simple NuGet package with guard clauses.
+
 **CSV**
 - [CSV Helper](https://joshclose.github.io/CsvHelper/): read and write CSV files
 
