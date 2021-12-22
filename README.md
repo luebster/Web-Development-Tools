@@ -35,6 +35,9 @@ A collection of libraries, tutorials, and other handy web development resources.
 **Date Picker**
 - [Pikaday](https://github.com/Pikaday/Pikaday)
 
+**Add to Calendar**
+- [Add-to-Calendar Button](https://github.com/jekuer/add-to-calendar-button)
+
 **Swiper**
 - [Swiper](https://swiperjs.com)
 
