@@ -38,7 +38,7 @@ A collection of libraries, tutorials, and other handy web development resources.
 **Add to Calendar**
 - [Add-to-Calendar Button](https://github.com/jekuer/add-to-calendar-button)
 
-**Swiper**
+**Carousel (sometimes referred to as a slider or swiper**
 - [Flickity](https://flickity.metafizzy.co/)
 - [Swiper](https://swiperjs.com)
 
