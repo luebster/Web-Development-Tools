@@ -39,6 +39,7 @@ A collection of libraries, tutorials, and other handy web development resources.
 - [Add-to-Calendar Button](https://github.com/jekuer/add-to-calendar-button)
 
 **Swiper**
+- [Flickity](https://flickity.metafizzy.co/)
 - [Swiper](https://swiperjs.com)
 
 ## Reference
