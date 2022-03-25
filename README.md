@@ -18,7 +18,6 @@ A collection of libraries, tutorials, and other handy web development resources.
 - [Smol CSS Snippets](https://github.com/5t3ph/smolcss): Very helpful CSS snippets
 
 ### User Interface
-
 **Frameworks**
 - [Bulma](https://bulma.io)
 - [Bulmaswatch](https://jenil.github.io/bulmaswatch): themes for Bulma
@@ -41,6 +40,11 @@ A collection of libraries, tutorials, and other handy web development resources.
 **Carousel (sometimes referred to as a slider or swiper**
 - [Flickity](https://flickity.metafizzy.co/)
 - [Swiper](https://swiperjs.com)
+
+## Tutorials
+### Favicons
+- [Building an apaptive favicon](https://web.dev/building-an-adaptive-favicon)
+
 
 ## Reference
 
