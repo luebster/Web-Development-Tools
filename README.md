@@ -18,28 +18,32 @@ A collection of libraries, tutorials, and other handy web development resources.
 - [Smol CSS Snippets](https://github.com/5t3ph/smolcss): Very helpful CSS snippets
 
 ### User Interface
-**Frameworks**
-- [Bulma](https://bulma.io)
-- [Bulmaswatch](https://jenil.github.io/bulmaswatch): themes for Bulma
-
-**Tooltips**
-- [Popper](https://popper.js.org)
-
-**Avatars**
-- [unavatar](https://unavatar.now.sh/)
-
-**Pagination**
-- [Paged.js](https://www.pagedjs.org/)
-
-**Date Picker**
-- [Pikaday](https://github.com/Pikaday/Pikaday)
 
 **Add to Calendar**
 - [Add-to-Calendar Button](https://github.com/jekuer/add-to-calendar-button)
 
-**Carousel (sometimes referred to as a slider or swiper**
+**Avatars**
+- [unavatar](https://unavatar.now.sh/)
+
+**Carousel** (sometimes referred to as a slider or swiper)
 - [Flickity](https://flickity.metafizzy.co/)
 - [Swiper](https://swiperjs.com)
+
+**Date Picker**
+- [Pikaday](https://github.com/Pikaday/Pikaday)
+
+**Frameworks**
+- [Bulma](https://bulma.io)
+- [Bulmaswatch](https://jenil.github.io/bulmaswatch): themes for Bulma
+
+**Pagination**
+- [Paged.js](https://www.pagedjs.org/)
+
+**Tooltips**
+- [Popper](https://popper.js.org)
+
+## Tools
+- [Color palette generator](https://fffuel.co/pppalette)
 
 ## Tutorials
 ### Favicons
@@ -50,6 +54,9 @@ A collection of libraries, tutorials, and other handy web development resources.
 
 ### Azure
 - [App Service Deployment Slots Tips/Tricks](https://ruslany.net/2019/06/azure-app-service-deployment-slots-tips-and-tricks/)
+
+### Components/Modules
+- **Dialog** [Building a dialog component](https://web.dev/building-a-dialog-component)
 
 ### CSS
 - [:has() selector use cases](https://ishadeed.com/article/css-has-parent-selector)
