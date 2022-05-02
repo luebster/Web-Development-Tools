@@ -51,5 +51,8 @@ A collection of libraries, tutorials, and other handy web development resources.
 ### Azure
 - [App Service Deployment Slots Tips/Tricks](https://ruslany.net/2019/06/azure-app-service-deployment-slots-tips-and-tricks/)
 
+### CSS
+- [:has() selector use cases](https://ishadeed.com/article/css-has-parent-selector)
+
 ### HTML
 - [Inputmode](https://css-tricks.com/everything-you-ever-wanted-to-know-about-inputmode/)
