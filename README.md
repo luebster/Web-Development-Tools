@@ -27,6 +27,7 @@ A collection of libraries, tutorials, and other handy web development resources.
 
 **Carousel** (sometimes referred to as a slider or swiper)
 - [Flickity](https://flickity.metafizzy.co/)
+- [Keen Slider](https://github.com/rcbyr/keen-slider)
 - [Swiper](https://swiperjs.com)
 
 **Date Picker**
