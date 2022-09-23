@@ -40,6 +40,9 @@ A collection of libraries, tutorials, and other handy web development resources.
 **Pagination**
 - [Paged.js](https://www.pagedjs.org/)
 
+**Tags**
+- [Tagify](https://github.com/yairEO/tagify)
+
 **Tooltips**
 - [Popper](https://popper.js.org)
 
