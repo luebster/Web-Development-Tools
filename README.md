@@ -69,5 +69,8 @@ A collection of libraries, tutorials, and other handy web development resources.
 **Lists**
 - [Creative List Styling](https://web.dev/creative-list-styling)
 
+**Select Elements**
+- [Custom Select Styles with Pure CSS](https://moderncss.dev/custom-select-styles-with-pure-css/)
+
 ### HTML
 - [Inputmode](https://css-tricks.com/everything-you-ever-wanted-to-know-about-inputmode/)
