@@ -66,6 +66,9 @@ A collection of libraries, tutorials, and other handy web development resources.
 ### CSS
 - [:has() selector use cases](https://ishadeed.com/article/css-has-parent-selector)
 
+**Image Overlays**
+- https://codepen.io/sonawaneapekshit/pen/RwbmOgW
+
 **Lists**
 - [Creative List Styling](https://web.dev/creative-list-styling)
 
