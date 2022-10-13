@@ -37,6 +37,10 @@ A collection of libraries, tutorials, and other handy web development resources.
 - [Bulma](https://bulma.io)
 - [Bulmaswatch](https://jenil.github.io/bulmaswatch): themes for Bulma
 
+**Icons**
+- [Material Icons](https://fonts.google.com/icons)
+- [Remix Icons](https://github.com/Remix-Design/RemixIcon)
+
 **Pagination**
 - [Paged.js](https://www.pagedjs.org/)
 
