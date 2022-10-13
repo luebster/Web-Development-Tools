@@ -69,6 +69,7 @@ A collection of libraries, tutorials, and other handy web development resources.
 
 ### CSS
 - [:has() selector use cases](https://ishadeed.com/article/css-has-parent-selector)
+- [Grid Layout starting point](https://ryanmulligan.dev/blog/layout-breakouts)
 
 **Image Overlays**
 - https://codepen.io/sonawaneapekshit/pen/RwbmOgW
