@@ -51,7 +51,12 @@ A collection of libraries, tutorials, and other handy web development resources.
 - [Popper](https://popper.js.org)
 
 ## Tools
+### Colors
 - [Color palette generator](https://fffuel.co/pppalette)
+
+### JSON
+- [Online JSON Querying Tool](https://jsonquery.co.uk/)
+
 
 ## Tutorials
 ### Favicons
