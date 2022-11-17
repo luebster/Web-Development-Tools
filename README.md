@@ -33,6 +33,9 @@ A collection of libraries, tutorials, and other handy web development resources.
 **Date Picker**
 - [Pikaday](https://github.com/Pikaday/Pikaday)
 
+**Fonts**
+- [Untitled UI Best Free Fonts](https://www.untitledui.com/blog/best-free-fonts)
+
 **Frameworks**
 - [Bulma](https://bulma.io)
 - [Bulmaswatch](https://jenil.github.io/bulmaswatch): themes for Bulma
