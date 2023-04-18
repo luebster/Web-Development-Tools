@@ -41,6 +41,7 @@ A collection of libraries, tutorials, and other handy web development resources.
 - [Bulmaswatch](https://jenil.github.io/bulmaswatch): themes for Bulma
 
 **Icons**
+- [Atlas Icons](https://atlasicons.vectopus.com/)
 - [Material Icons](https://fonts.google.com/icons)
 - [Remix Icons](https://github.com/Remix-Design/RemixIcon)
 
