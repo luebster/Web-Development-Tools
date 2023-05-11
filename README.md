@@ -30,6 +30,12 @@ A collection of libraries, tutorials, and other handy web development resources.
 - [Keen Slider](https://github.com/rcbyr/keen-slider)
 - [Swiper](https://swiperjs.com)
 
+
+**Comment systems**
+- Giscus (using Github discussion for commenting on blog posts)
+  - [Giscus](https://giscus.app/)
+  - [Migrating existing Discus comments](https://andrewlock.net/migrating-comments-from-dsqus-to-giscus/)
+
 **Date Picker**
 - [Pikaday](https://github.com/Pikaday/Pikaday)
 
