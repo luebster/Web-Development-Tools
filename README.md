@@ -35,6 +35,7 @@ A collection of libraries, tutorials, and other handy web development resources.
 - Giscus (using Github discussion for commenting on blog posts)
   - [Giscus](https://giscus.app/)
   - [Migrating existing Discus comments](https://andrewlock.net/migrating-comments-from-dsqus-to-giscus/)
+  - [Using Octokit.GraphQL to interact with the GitHub discussions API](https://andrewlock.net/using-octokit-graphql-to-interact-with-the-github-discussions-api/)
 
 **Date Picker**
 - [Pikaday](https://github.com/Pikaday/Pikaday)
