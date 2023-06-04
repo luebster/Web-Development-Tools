@@ -88,6 +88,8 @@ A collection of libraries, tutorials, and other handy web development resources.
 - [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox)
 - [Grid Layout starting point](https://ryanmulligan.dev/blog/layout-breakouts)
 
+### Favicons
+- [How to Favicon the Modern Way](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs)
 
 **Image Overlays**
 - https://codepen.io/sonawaneapekshit/pen/RwbmOgW
