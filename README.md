@@ -33,7 +33,6 @@ A collection of libraries, tutorials, and other handy web development resources.
 - [Keen Slider](https://github.com/rcbyr/keen-slider)
 - [Swiper](https://swiperjs.com)
 
-
 **Comment systems**
 - Giscus (using Github discussion for commenting on blog posts)
   - [Giscus](https://giscus.app/)
@@ -54,6 +53,9 @@ A collection of libraries, tutorials, and other handy web development resources.
 - [Atlas Icons](https://atlasicons.vectopus.com/)
 - [Material Icons](https://fonts.google.com/icons)
 - [Remix Icons](https://github.com/Remix-Design/RemixIcon)
+
+**Loading Animations**
+- [CSS Loaders](https://css-loaders.com/)
 
 **Pagination**
 - [Paged.js](https://www.pagedjs.org/)
