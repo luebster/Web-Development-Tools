@@ -15,7 +15,7 @@ A collection of libraries, tutorials, and other handy web development resources.
 - [CSV Helper](https://joshclose.github.io/CsvHelper/): read and write CSV files
 
 **LINQ to SQL**
--[LINQKit](https://github.com/scottksmith95/LINQKit): Extensions for LINQ to SQL and Entity Framework 
+- [LINQKit](https://github.com/scottksmith95/LINQKit): Extensions for LINQ to SQL and Entity Framework 
 
 ### Front-end
 - [Smol CSS Snippets](https://github.com/5t3ph/smolcss): Very helpful CSS snippets
