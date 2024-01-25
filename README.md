@@ -82,6 +82,9 @@ A collection of libraries, tutorials, and other handy web development resources.
 ### Favicons
 - [Building an apaptive favicon](https://web.dev/building-an-adaptive-favicon)
 
+### Scroll Animations
+- [A Practical Introduction to Scroll-Driven Animations with CSS scroll() and view()
+](https://tympanus.net/codrops/2024/01/17/a-practical-introduction-to-scroll-driven-animations-with-css-scroll-and-view/)
 
 ## Reference
 
