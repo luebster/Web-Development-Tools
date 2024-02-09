@@ -104,6 +104,10 @@ A collection of libraries, tutorials, and other handy web development resources.
 ### Favicons
 - [How to Favicon the Modern Way](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs)
 
+### Images
+**Source Sets**
+- https://dev.to/activenode/srcset-sizes-picture-media-what-you-might-not-have-known-31nf
+- 
 **Image Overlays**
 - https://codepen.io/sonawaneapekshit/pen/RwbmOgW
 
