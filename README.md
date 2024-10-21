@@ -24,6 +24,7 @@ A collection of libraries, tutorials, and other handy web development resources.
 
 **Add to Calendar**
 - [Add-to-Calendar Button](https://github.com/jekuer/add-to-calendar-button)
+- [Calendar Links](https://github.com/AnandChowdhary/calendar-link)
 
 **Avatars**
 - [unavatar](https://unavatar.now.sh/)
