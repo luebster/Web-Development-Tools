@@ -119,4 +119,5 @@ A collection of libraries, tutorials, and other handy web development resources.
 - [Custom Select Styles with Pure CSS](https://moderncss.dev/custom-select-styles-with-pure-css/)
 
 ### HTML
+- [Accordians (details element)](https://developer.chrome.com/docs/css-ui/exclusive-accordion)
 - [Inputmode](https://css-tricks.com/everything-you-ever-wanted-to-know-about-inputmode/)
