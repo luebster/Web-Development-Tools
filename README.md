@@ -115,6 +115,9 @@ A collection of libraries, tutorials, and other handy web development resources.
 **Lists**
 - [Creative List Styling](https://web.dev/creative-list-styling)
 
+**REGEX**
+- US PHONE: ^\([2-9]\d\d\) [2-9]\d\d-\d{4}$
+
 **Select Elements**
 - [Custom Select Styles with Pure CSS](https://moderncss.dev/custom-select-styles-with-pure-css/)
 
