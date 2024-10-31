@@ -42,7 +42,7 @@ A collection of libraries, tutorials, and other handy web development resources.
 
 **Date Picker**
 - [Pikaday](https://github.com/Pikaday/Pikaday)
-- [Tempus Dominus](https://getdatepicker.com/): a date/time picker
+- [Air Datepicker](https://air-datepicker.com/)
 
 **Forms**
 - [Accessible Floating Input Labels](https://muffinman.io/blog/css-only-floating-input-labels/)  
