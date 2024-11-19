@@ -68,6 +68,9 @@ A collection of libraries, tutorials, and other handy web development resources.
 **Tags**
 - [Tagify](https://github.com/yairEO/tagify)
 
+**Toasts**
+- [Toastify](https://github.com/apvarun/toastify-js)
+
 **Tooltips**
 - [Popper](https://popper.js.org)
 
