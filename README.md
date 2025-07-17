@@ -2,6 +2,10 @@
 # Web-Development-Tools
 A collection of libraries, tutorials, and other handy web development resources.
 
+## Good Practices - Conventions for naming, organization, components, etc
+- [Good Practices](https://goodpractices.design/)
+
+
 ## Libraries
 
 ### C#
@@ -104,6 +108,8 @@ A collection of libraries, tutorials, and other handy web development resources.
 - [:has() selector use cases](https://ishadeed.com/article/css-has-parent-selector)
 - [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox)
 - [Grid Layout starting point](https://ryanmulligan.dev/blog/layout-breakouts)
+
+
 
 ### Favicons
 - [How to Favicon the Modern Way](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs)
