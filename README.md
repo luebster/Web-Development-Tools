@@ -49,7 +49,8 @@ A collection of libraries, tutorials, and other handy web development resources.
 - [Air Datepicker](https://air-datepicker.com/)
 
 **Forms**
-- [Accessible Floating Input Labels](https://muffinman.io/blog/css-only-floating-input-labels/)  
+- [Accessible Floating Input Labels](https://muffinman.io/blog/css-only-floating-input-labels/)
+- [:in-range psuedo class](https://html-css-tip-of-the-week.netlify.app/tip/in-range)  
 
 **Fonts**
 - [Untitled UI Best Free Fonts](https://www.untitledui.com/blog/best-free-fonts)
