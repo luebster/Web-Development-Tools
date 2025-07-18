@@ -26,6 +26,9 @@ A collection of libraries, tutorials, and other handy web development resources.
 
 ### User Interface
 
+**Accordion**
+- [Animated Accordions without JavaScript](https://www.builder.io/blog/animated-css-accordions)
+- 
 **Add to Calendar**
 - [Add-to-Calendar Button](https://github.com/jekuer/add-to-calendar-button)
 - [Calendar Links](https://github.com/AnandChowdhary/calendar-link)
