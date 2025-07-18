@@ -86,6 +86,9 @@ A collection of libraries, tutorials, and other handy web development resources.
 ### Colors
 - [Color palette generator](https://fffuel.co/pppalette)
 
+### Fonts
+- [UI Font tester](https://www.uifonts.app/)
+- 
 ### JSON
 - [Online JSON Querying Tool](https://jsonquery.co.uk/)
 - [JSON Broswer](https://jsonhero.io/)
