@@ -129,6 +129,7 @@ A collection of libraries, tutorials, and other handy web development resources.
 
 **Select Elements**
 - [Custom Select Styles with Pure CSS](https://moderncss.dev/custom-select-styles-with-pure-css/)
+- [customizable select part 1 of 5](https://utilitybend.com/blog/the-customizable-select-part-one-history-trickery-and-styling-the-select-with-css)
 
 ### HTML
 - [Accordians (details element)](https://developer.chrome.com/docs/css-ui/exclusive-accordion)
