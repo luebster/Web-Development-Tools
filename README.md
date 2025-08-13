@@ -21,6 +21,10 @@ A collection of libraries, tutorials, and other handy web development resources.
 **LINQ to SQL**
 - [LINQKit](https://github.com/scottksmith95/LINQKit): Extensions for LINQ to SQL and Entity Framework 
 
+### Wordpress
+**Queries**
+- [WordPress Query Builder](https://github.com/10quality/wp-query-builder)
+
 ### Front-end
 - [Smol CSS Snippets](https://github.com/5t3ph/smolcss): Very helpful CSS snippets
 
