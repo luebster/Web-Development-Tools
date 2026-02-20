@@ -73,6 +73,9 @@ A collection of libraries, tutorials, and other handy web development resources.
 - [Material Icons](https://fonts.google.com/icons)
 - [Remix Icons](https://github.com/Remix-Design/RemixIcon)
 
+**Lists**
+- [Customising lists with CSS](https://piccalil.li/blog/an-in-depth-guide-to-customising-lists-with-css)
+
 **Loading Animations**
 - [CSS Loaders](https://css-loaders.com/)
 
