@@ -59,7 +59,8 @@ A collection of libraries, tutorials, and other handy web development resources.
 
 **Forms**
 - [Accessible Floating Input Labels](https://muffinman.io/blog/css-only-floating-input-labels/)
-- [:in-range psuedo class](https://html-css-tip-of-the-week.netlify.app/tip/in-range)  
+- [:in-range psuedo class](https://html-css-tip-of-the-week.netlify.app/tip/in-range)
+- [Pure CSS Custom Checkbox Style](https://moderncss.dev/pure-css-custom-checkbox-style/)
 
 **Fonts**
 - [Untitled UI Best Free Fonts](https://www.untitledui.com/blog/best-free-fonts)
